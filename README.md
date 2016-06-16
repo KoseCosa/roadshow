@@ -1,6 +1,6 @@
-# Calculator web app demo project
+# Calculator web app demo project <3
 
-Calculator web application demo project, used for various 
+Calculator web application demo project, used for various
 training classes around continuous delivery by Praqma.
 
 The project was earlier called [Praqma training RoadShow](https://github.com/praqma-training/roadshow), so there is a bit legacy and some hack, leaving room for exercises :-)
@@ -100,4 +100,3 @@ For training classes, that uses shared artifact- and web-server, you need to mak
 Patch the following line in `build.gradle` replacing _mytrainingusername_ with your own name, initial or Github account id.
 
         ext.trainingUserName = 'mytrainingusername' // it is a good idea to chose the same as your github id
-
